@@ -11,7 +11,7 @@ import {
 import { ShoppingCart } from "@material-ui/icons";
 import { Link, useLocation } from "react-router-dom";
 
-import logo from "../../assets/StoreIcon.webp";
+import logo from "../../assets/storeIcon.png";
 import useStyles from "./styles";
 
 const Navbar = ({ totalItems }) => {
