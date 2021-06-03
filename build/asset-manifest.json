@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/JEG-Website/static/js/main.2528c474.chunk.js",
-    "main.js.map": "/JEG-Website/static/js/main.2528c474.chunk.js.map",
+    "main.js": "/JEG-Website/static/js/main.e17a7c77.chunk.js",
+    "main.js.map": "/JEG-Website/static/js/main.e17a7c77.chunk.js.map",
     "runtime-main.js": "/JEG-Website/static/js/runtime-main.77731f0f.js",
     "runtime-main.js.map": "/JEG-Website/static/js/runtime-main.77731f0f.js.map",
-    "static/js/2.56edc0ef.chunk.js": "/JEG-Website/static/js/2.56edc0ef.chunk.js",
-    "static/js/2.56edc0ef.chunk.js.map": "/JEG-Website/static/js/2.56edc0ef.chunk.js.map",
+    "static/js/2.25309c3e.chunk.js": "/JEG-Website/static/js/2.25309c3e.chunk.js",
+    "static/js/2.25309c3e.chunk.js.map": "/JEG-Website/static/js/2.25309c3e.chunk.js.map",
     "index.html": "/JEG-Website/index.html",
-    "precache-manifest.b5d9e5b258f491887a12defd1217e9b6.js": "/JEG-Website/precache-manifest.b5d9e5b258f491887a12defd1217e9b6.js",
+    "precache-manifest.8e4ee7fbd5130891153cf821f4f642b2.js": "/JEG-Website/precache-manifest.8e4ee7fbd5130891153cf821f4f642b2.js",
     "service-worker.js": "/JEG-Website/service-worker.js",
-    "static/js/2.56edc0ef.chunk.js.LICENSE.txt": "/JEG-Website/static/js/2.56edc0ef.chunk.js.LICENSE.txt",
+    "static/js/2.25309c3e.chunk.js.LICENSE.txt": "/JEG-Website/static/js/2.25309c3e.chunk.js.LICENSE.txt",
     "static/media/storeIcon.png": "/JEG-Website/static/media/storeIcon.445f3f75.png"
   },
   "entrypoints": [
     "static/js/runtime-main.77731f0f.js",
-    "static/js/2.56edc0ef.chunk.js",
-    "static/js/main.2528c474.chunk.js"
+    "static/js/2.25309c3e.chunk.js",
+    "static/js/main.e17a7c77.chunk.js"
   ]
 }
