@@ -2,7 +2,7 @@
   "name": "project-crapp",
   "version": "1.0.0",
   "description": "",
-
+  "homepage": "https://thegeorgebush.github.io/JEG-Website/",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -28,7 +28,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "predeploy": "yarn build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "browserslist": [
