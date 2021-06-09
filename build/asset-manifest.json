@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/JEG-Website/static/js/main.78663358.chunk.js",
-    "main.js.map": "/JEG-Website/static/js/main.78663358.chunk.js.map",
+    "main.js": "/JEG-Website/static/js/main.40f70c8b.chunk.js",
+    "main.js.map": "/JEG-Website/static/js/main.40f70c8b.chunk.js.map",
     "runtime-main.js": "/JEG-Website/static/js/runtime-main.77731f0f.js",
     "runtime-main.js.map": "/JEG-Website/static/js/runtime-main.77731f0f.js.map",
     "static/js/2.4f60b4d9.chunk.js": "/JEG-Website/static/js/2.4f60b4d9.chunk.js",
     "static/js/2.4f60b4d9.chunk.js.map": "/JEG-Website/static/js/2.4f60b4d9.chunk.js.map",
     "index.html": "/JEG-Website/index.html",
-    "precache-manifest.6023756d94afecc73d7638b1dad2e40c.js": "/JEG-Website/precache-manifest.6023756d94afecc73d7638b1dad2e40c.js",
+    "precache-manifest.5a10feecb0f6a38fb1c21481e96b4be6.js": "/JEG-Website/precache-manifest.5a10feecb0f6a38fb1c21481e96b4be6.js",
     "service-worker.js": "/JEG-Website/service-worker.js",
     "static/js/2.4f60b4d9.chunk.js.LICENSE.txt": "/JEG-Website/static/js/2.4f60b4d9.chunk.js.LICENSE.txt",
     "static/media/commerce.png": "/JEG-Website/static/media/commerce.422fec10.png"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.77731f0f.js",
     "static/js/2.4f60b4d9.chunk.js",
-    "static/js/main.78663358.chunk.js"
+    "static/js/main.40f70c8b.chunk.js"
   ]
 }

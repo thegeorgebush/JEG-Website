@@ -34,11 +34,11 @@ const PrimarySearchAppBar = ({ totalItems }) => {
     <>
       <AppBar position="fixed" className={classes.appBar} color="inherit">
         <Toolbar>
-          <Typography component={Link} to="/" variant="h6" className={classes.title} color="inherit">
+          <Typography component={Link} to="/JEG-Website" variant="h6" className={classes.title} color="inherit">
             <img src={logo} alt="JEG Store" height="25px" className={classes.image} /> JEG Store2
           </Typography>
           <div className={classes.grow} />
-          {location.pathname === '/' && (
+
           <div className={classes.button}>
             <IconButton component={Link} to="/cart" aria-label="Show cart items" color="inherit">
               <Badge badgeContent={totalItems} color="secondary">
@@ -46,7 +46,7 @@ const PrimarySearchAppBar = ({ totalItems }) => {
               </Badge>
             </IconButton>
           </div>
-          )}
+
         </Toolbar>
       </AppBar>
       {renderMobileMenu}
