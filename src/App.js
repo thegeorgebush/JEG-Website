@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { CssBaseline } from '@material-ui/core';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
-import { Navbar, Products, Cart, Checkout } from './components';
+import { Navbar, Products, Cart, Checkout, LandingPage } from './components';
 import { commerce } from './lib/commerce';
 
 const App = () => {
@@ -78,6 +78,9 @@ const App = () => {
         <Navbar totalItems={cart.total_items} handleDrawerToggle={handleDrawerToggle} />
         <Switch>
           <Route exact path="/JEG-Website">
+            <LandingPage />
+          </Route>
+          <Route exact path="/products">
             <Products products={products} onAddToCart={handleAddToCart} handleUpdateCartQty />
           </Route>
           <Route exact path="/cart">
